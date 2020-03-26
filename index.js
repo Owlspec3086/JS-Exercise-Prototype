@@ -116,7 +116,7 @@ function Baby(name, age, faviorteToy) {
 
 }
 
-/* 
+
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
@@ -124,7 +124,7 @@ function Baby(name, age, faviorteToy) {
   2. "this" may be different each time the function is called.
   3. "this" is the global object in a function invocation.
   4. this is undefined in a function invocation in strict mode
-*/
+
 
 
 ///////// END OF CHALLENGE /////////
